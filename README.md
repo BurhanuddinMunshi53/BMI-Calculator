@@ -21,7 +21,7 @@ A lightweight, browser-based BMI (Body Mass Index) calculator built with vanilla
 Clone the repo and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/your-username/bmi-calculator.git
+git clone https://github.com/BurhanuddinMunshi53/bmi-calculator.git
 cd bmi-calculator
 ```
 
